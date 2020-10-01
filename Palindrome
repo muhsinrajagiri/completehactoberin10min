@@ -7,7 +7,7 @@
     If both numbers are same, print palindrome number
     Else print not palindrome number
 
-//PROGRAM
+// C PROGRAM
 
     #include<stdio.h>  
     int main()    
